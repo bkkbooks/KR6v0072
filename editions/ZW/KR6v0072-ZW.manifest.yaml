@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6v0072/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0072/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛五禮
+  identifiers:
+    krp: KR6v0072
+    cbeta: ZW07n0059b
+    cbeta_old_id: ZW07n0059b
+    authorityid: CA0008471
+    json_key: ZW0059b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0059b.xml
+    old_id: ZW07n0059b
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0072_000-ZW.yaml, hash: 'sha256:10810081da0acb71c75b32c6bab989a37a80032dba7295cf0cc6a749a79dc4d9'}
+  - {seq: 1, filename: KR6v0072_001-ZW.yaml, hash: 'sha256:03c1dbc50c96161b0c89580af8cfdb583809f5954f7c7404b1241c172f0b7f94'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0072_000-ZW.markers.yaml, hash: 'sha256:8223da31f1909f5ec7783fdc50559436b6f11f76798aa4478733b04c424c164e'}
+  - {seq: 1, role: markers, filename: assets/KR6v0072_001-ZW.markers.yaml, hash: 'sha256:387106c50c6c093f1baee124886484f02d7a1ff24bb0e09af83f0ad62e2b1a10'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0072_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 錄文二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0072_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 267
+  label: 金剛五禮
+  type: juan
+  level: 1
+hash: sha256:ad98c7c13130a95f157027b533ab6cba91a628e097efad241128120ccc4f3e21
