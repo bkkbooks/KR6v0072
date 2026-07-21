@@ -19,17 +19,17 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0072_000-ZW.yaml, hash: 'sha256:10810081da0acb71c75b32c6bab989a37a80032dba7295cf0cc6a749a79dc4d9'}
+  - {seq: 0, filename: KR6v0072_000-ZW.yaml, hash: 'sha256:aad984e0db8ba5a1f64cb44e4e89afc408134d5a048e53f46466153bc89c29e3'}
   - {seq: 1, filename: KR6v0072_001-ZW.yaml, hash: 'sha256:03c1dbc50c96161b0c89580af8cfdb583809f5954f7c7404b1241c172f0b7f94'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0072_000-ZW.markers.yaml, hash: 'sha256:8223da31f1909f5ec7783fdc50559436b6f11f76798aa4478733b04c424c164e'}
+  - {seq: 0, role: markers, filename: assets/KR6v0072_000-ZW.markers.yaml, hash: 'sha256:204275a78cdb342b25428356586e566b875fa42ad5bf400ae6369eab92c93d16'}
   - {seq: 1, role: markers, filename: assets/KR6v0072_001-ZW.markers.yaml, hash: 'sha256:387106c50c6c093f1baee124886484f02d7a1ff24bb0e09af83f0ad62e2b1a10'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0072_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 錄文二
@@ -45,4 +45,4 @@ table_of_contents:
   label: 金剛五禮
   type: juan
   level: 1
-hash: sha256:ad98c7c13130a95f157027b533ab6cba91a628e097efad241128120ccc4f3e21
+hash: sha256:8560657a79df2172135177f3b2b77783e6cb3f06b71eeecdde5b9b548a946080

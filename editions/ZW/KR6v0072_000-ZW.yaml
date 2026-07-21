@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6v0072/zw/v1/juan/0
 seq: 0
-front:
+body:
   text: 錄文二
   hash: sha256:a492f85a82e4a8765c0cdb17e2e643d208c3fca3f7aed27f1ca9d65a993dd824
   markers:
   - {type: 其他, offset: 0, content: 錄文二, id: KR6v0072_ZW_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 金剛五禮
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0059b.xml
     old_id: ZW07n0059b
-hash: sha256:10810081da0acb71c75b32c6bab989a37a80032dba7295cf0cc6a749a79dc4d9
+hash: sha256:aad984e0db8ba5a1f64cb44e4e89afc408134d5a048e53f46466153bc89c29e3
